@@ -1,0 +1,19 @@
+/* style.css */
+
+body {
+    color: white;
+    background-color: #30d5c8;
+}
+#one { font: serif;
+    color: grey 
+}
+#two {
+    color: purple
+}
+#three {
+    color: navy
+}
+
+li {
+    font: serif
+}
